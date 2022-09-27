@@ -1,4 +1,3 @@
-const { reduce } = require("lodash")
 
 const sum = function(array){
   return array.reduce(function(a, b){ 
